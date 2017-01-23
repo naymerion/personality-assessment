@@ -12,7 +12,8 @@
 
 	ex: node gettweets.js > aamirkhan
 
-	The data extracted from Twitter API is not a perfect JSON and cannot be inputted to python script directly.
+	The data extracted from Twitter API is not a perfect JSON and 
+	cannot be inputted to python script directly.
 	Please install hanson npm module.
 
 	> npm install hanson
